@@ -1,0 +1,14 @@
+{
+  "homo": {
+    "category": "ambient",
+    "sounds": [
+      "eyeq_homo:homo"
+    ]
+  },
+  "les": {
+    "category": "ambient",
+    "sounds": [
+      "eyeq_homo:les"
+    ]
+  }
+}
